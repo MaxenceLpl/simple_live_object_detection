@@ -4,7 +4,7 @@ This project implements **object detection** using OpenCV and MediaPipe, leverag
 
 ---
 
-### **📌 About EfficientDet Lite Models**
+### **About EfficientDet Lite Models**
 The **EfficientDet Lite** models are optimized versions of Google's **EfficientDet** object detection architecture.  
 They are designed to be **lightweight and fast**, making them ideal for use on **mobile devices and embedded systems**.  
 These models utilize **EfficientNet-Lite as a backbone** for feature extraction and **BiFPN (Bidirectional Feature Pyramid Network)** for efficient multi-scale object detection.  
